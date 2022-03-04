@@ -1,0 +1,16 @@
+.login-btn {
+    width: 98.5%;
+    margin: 15px 0 !important;
+}
+
+.create-link {
+    padding-right: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+@media only screen and (max-width: 1258px) {
+    .link-wrapper {
+        font-size: 10px;
+    }
+  }
